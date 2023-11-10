@@ -13,5 +13,5 @@ This Node.js server provides a simple API for managing blog posts and allowing u
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/gj_walia/blog-post-server.git
+   git clone https://github.com/gj-code/blog-assignment.git
    ```
